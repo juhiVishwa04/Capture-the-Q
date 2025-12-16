@@ -1,0 +1,7 @@
+{
+  "name": "SnapSolve AI",
+  "description": "An intelligent study companion that solves MCQs and theory questions from photos using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
